@@ -37,8 +37,8 @@ HotelBookingManagementSystem/
 
 1. Clone the repository:
 
-   ```bash 
-   git clone https://github.com/your-username/HotelBookingManagementSystem.git
+   ```bash
+   git@github.com:ParneetKaur-coder/Syntecxhub_Hotel-Booking-Management-System.git
    ```
 
 2. Open the project in IntelliJ IDEA, Eclipse, or VS Code.
